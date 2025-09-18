@@ -10,9 +10,7 @@ dang it why cant i color the text im gonna cry
 <ul id="ul-circle">
 <li>I know basic python sintaxis and pseudocode.</li>  
 <li>I learnt html while making my page in neocities, it's honestly so fun.</li>
-<li>I'm in second year of high school.</li>  
 <li>My dream is to go to TUM and study computer science.</li>
-<li>I'm currently selling ice cream at my school to save for uni.</li>
 </ul>
 </section>
 <img src="https://blinkies.neocities.org/b/display/0150-alligator.gif" width=100 height=15> <img src="https://blinkies.neocities.org/b/display/0033-confused.gif" width=100 height=15> <img src="https://blinkies.neocities.org/b/display/0022-iheart.gif" width=100 height=15> <img src="https://adriansblinkiecollection.neocities.org/k18.gif" width=100 height=15>
