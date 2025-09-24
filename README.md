@@ -18,7 +18,8 @@ dang it why cant i color the text im gonna cry
 ```css
 #Inga {
   pronouns: she/her;
-  code: [HTML, CSS, Python, PHP(still a noob)];
+  code: [HTML, CSS, Python, PHP(still a noob)]
+  talents: the art of stealing code;
 }
 ```
 <footer>
