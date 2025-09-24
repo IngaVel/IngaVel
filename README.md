@@ -1,4 +1,5 @@
-<h2 color: #FFE8D8;>Hola/Maitei/Hello/Hallo</h2> <p> My name is Inga and I like making sites in neocities and I'm also looking foward to learning more about programming </p>
+<h1 color: #FFE8D8;>Hola/Maitei/Hello/Hallo</h1>
+<p> My name is Inga, I like making sites in neocities and I'm looking foward to learning more about programming </p>
  <img src="https://adriansblinkiecollection.neocities.org/dividers/rainbowchangedivider.gif" width=1000 height=7>
  
  <p>I live in Paraguay and my mother lenguage is spanish, my english is good (I hope, hehe) and I'm also learnig german. There seems to be a lot of very experienced people here, and I don't know what could I contribute lol, but I'll do my best to learn and get better. </p>
