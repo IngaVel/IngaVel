@@ -8,9 +8,9 @@ dang it why cant i color the text im so mad
 
 ```css
 #Inga {
-  pronouns: she/her;
-  languages: [Spanish, HTML, CSS, English, Guarani, Python, German and PHP (still a noob)];
-  talents: the art of stealing code;
+  pronouns: She/Her;
+  languages: Spanish, HTML, CSS, English, Guarani, Python, German and PHP (still a noob);
+  talents: The art of stealing code;
 }
 ```
 <footer>
