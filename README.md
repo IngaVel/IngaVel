@@ -15,6 +15,13 @@ dang it why cant i color the text im gonna cry
 </section>
 <img src="https://blinkies.neocities.org/b/display/0150-alligator.gif" width=100 height=15> <img src="https://blinkies.neocities.org/b/display/0033-confused.gif" width=100 height=15> <img src="https://blinkies.neocities.org/b/display/0022-iheart.gif" width=100 height=15> <img src="https://adriansblinkiecollection.neocities.org/k18.gif" width=100 height=15>
 
+
+```javascript
+const Inga = {
+  pronouns: "she/her",
+  code: [HTML, CSS, Python, PHP(still a noob)],"
+}
+```
 <footer>
 <h4>Andd I think that's all, ty for reading! :) </h4>
 </footer>
