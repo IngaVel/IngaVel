@@ -14,6 +14,14 @@ dang it why cant i color the text im so mad
   talents: The art of stealing code, AKA copy+paste;
 }
 ```
+
+```python
+If success() == True:
+   celebrate()
+ else :
+    Try_again()
+    print("Don't Give Up")
+```
 <footer>
 <h4>Andd I think that's all, ty for reading! :) </h4>
 </footer>
