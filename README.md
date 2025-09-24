@@ -3,8 +3,9 @@
 <!---
 dang it why cant i color the text im so mad
  --->
+<p align="center">
 <img src="nomatterwhereyougo.gif" width=200 height=30> <img src="everyonesalwaysconnected.gif" width=200 height=30>
-
+</p>
 
 ```css
 #Inga {
