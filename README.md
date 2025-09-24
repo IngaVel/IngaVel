@@ -7,7 +7,7 @@
 <!---
 dang it why cant i color the text im so mad
  --->
-<img src="https://blinkies.neocities.org/b/display/0150-alligator.gif" width=100 height=15> <img src="https://adriansblinkiecollection.neocities.org/k18.gif" width=100 height=15>
+<img src="nomatterwhereyouare.gif" width=100 height=15> <img src="everyonesalwaysconnected.gif" width=100 height=15>
 
 
 ```css
