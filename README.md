@@ -10,7 +10,7 @@ dang it why cant i color the text im so mad
 ```css
 #Inga {
   pronouns: She/Her;
-  languages: Spanish, HTML, CSS, English, Guarani, Python, German and PHP (still a noob);
+  languages: Spanish, HTML, CSS, English, Guarani, Python, (still not so good in German and PHP);
   talents: The art of stealing code, AKA copy+paste;
 }
 ```
