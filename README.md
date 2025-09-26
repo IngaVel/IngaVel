@@ -14,9 +14,10 @@ dang it why cant i color the text im so mad
   languages: Spanish, HTML, CSS, English, Guarani, Python, (still not so good in German and PHP);
   talents: The art of stealing code, AKA copy+paste;
   hobbies: Drawing, 3D modeling in blender, sewing, fashion design, crochet, writing, programming;
-  
 }
 ```
+
+
 ## Goals
 <ul>
   <li>Get better at programming</li>
