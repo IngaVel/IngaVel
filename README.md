@@ -7,7 +7,7 @@ dang it why cant i color the text im so mad
 <img src="nomatterwhereyougo.gif" width=200 height=30> <img src="everyonesalwaysconnected.gif" width=200 height=30>
 </p>
 
-##A little about me
+## A little about me
 ```css
 #Inga {
   DisplayName: She/Her;
