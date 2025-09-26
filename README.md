@@ -10,11 +10,12 @@ dang it why cant i color the text im so mad
 
 ```css
 #Inga {
-  pronouns: She/Her;
-  first commit: 4/02/2007;
-  languages: Spanish, HTML, CSS, English, Guarani, Python, (still not so good in German and PHP);
-  talents: The art of stealing code, AKA copy+paste;
-  hobbies: Drawing, 3D modeling in blender, sewing, fashion design, crochet, writing, programming;
+  DisplayName: She/Her;
+  FirstCommit: 4/02/2007;
+  Languages: Spanish, HTML, CSS, English, Guarani, Python, (still not so good in German and PHP);
+  KnownBugs: Procrastination
+  SpecialMoves: The art of stealing code, AKA copy+paste;
+  BackgroundProcessess: Drawing, 3D modeling in blender, sewing, fashion design, crochet, writing, programming;
 }
 ```
 
