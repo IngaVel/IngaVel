@@ -14,10 +14,10 @@ dang it why cant i color the text im so mad
   talents: The art of stealing code, AKA copy+paste;
 }
 ```
-##Goals
+## Goals
 <ul>
   <li>Get better at programming</li>
-</ul>ul>
+</ul>
 
 ```python
 If success() == True:
