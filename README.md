@@ -17,6 +17,8 @@ dang it why cant i color the text im so mad
 ## Goals
 <ul>
   <li>Get better at programming</li>
+  <li>Learn many new hobbies</li>
+  <li>(Maybe) learn C# if I have time 👉👈</li>
 </ul>
 
 ```python
