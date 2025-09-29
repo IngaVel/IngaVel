@@ -10,7 +10,7 @@ dang it why cant i color the text im so mad
 ## A little about me
 ```css
 #Inga {
-  DisplayName: She/Her;
+  Class: She/Her;
   FirstCommit: 4/02/2007;
   Languages: Spanish, HTML, CSS, English, Guarani, Python, (still not so good in German and PHP);
   KnownBugs: Procrastination;
