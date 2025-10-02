@@ -1,5 +1,5 @@
 <h1 align="center" color: #FFE8D8;>Hola/Maitei/Hello/Hallo</h1>
-<b align="center"> My name is Inga, I like making sites in neocities and I'm looking foward to learning more about programming </b>
+<p align="center"> My name is Inga, I like making sites in neocities and I'm looking foward to learning more about programming </p>
 <!---
 dang it why cant i color the text im so mad
  --->
